@@ -1,3 +1,5 @@
+# Social Media App Using React, Redux and Firebase
+
 ## Tools Used
 * React
 * Firebase
@@ -13,3 +15,10 @@
 ## Pre-requsites
 * Javascript
 * React Fundamentals
+* NodeJs, npm
+* VS Code
+* Postman
+
+## VS Code Extensions
+* Prettier
+* ES7 Snippets
